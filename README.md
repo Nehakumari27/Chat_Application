@@ -1,6 +1,8 @@
 # Chat_Application
-***
+_______________________
 ![multi](https://github.com/Nehakumari27/Chat_Application/assets/138155534/6076a133-2abe-4022-8743-368771800d99)
+
+
 This is a multi-user chat application implemented in Java, featuring a user login and register page, a dashboard screen, a chat interface, and various other functionalities. The application utilizes SQL database for user data storage, socket programming with server socket for communication, handshaking process for establishing connections, multithreading for handling multiple clients, message broadcasting, error and exception handling, reading/writing data on stream, private messaging, and password hashing for enhanced security.
 ## Features
 ***
