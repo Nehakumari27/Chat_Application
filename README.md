@@ -6,7 +6,7 @@
 
 This is a multi-user chat application implemented in Java, featuring a user login and register page, a dashboard screen, a chat interface, and various other functionalities. The application utilizes SQL database for user data storage, socket programming with server socket for communication, handshaking process for establishing connections, multithreading for handling multiple clients, message broadcasting, error and exception handling, reading/writing data on stream, private messaging, and password hashing for enhanced security.
 ## Features
-__
+
 ### User Registration
 New users can create an account by providing a unique username, password, and other required information.
 ### Login
@@ -34,25 +34,25 @@ Users can send private messages to specific users within the same chat room for 
 ### Password Hashing
 User passwords are hashed and securely stored in the database to protect sensitive information.
 # Dependencies
-__
+
 The project has the following dependencies:
 Java 8 or above JDBC (Java Database Connectivity) library GUI library (e.g. Swing)
 # Usage
-__
+
 Launch the application by running the Server class to start the server.
 Clients can run the Client class to connect to the server.
 Register a new account if you are a new user. Otherwise, log in using your existing credentials.
 # Run in commond line
-__
+
 ![image](https://github.com/Nehakumari27/Chat_Application/assets/138155534/86aedd24-02a4-443b-9849-314e42bba4a5)
 
 # Register and Login Page
-__
+
 ![login3](https://github.com/Nehakumari27/Chat_Application/assets/138155534/d978252a-3b4a-49b4-80aa-9c26e1d6db79)
 # DashBoard
-__
+
 ![dashboard](https://github.com/Nehakumari27/Chat_Application/assets/138155534/3f97ca13-bba9-4691-8805-9078927626ec)
 # Chatting Screen
-__
+
 ![t](https://github.com/Nehakumari27/Chat_Application/assets/138155534/9fa1cc74-1ef8-4451-9492-8099d8c1fef6)
 
